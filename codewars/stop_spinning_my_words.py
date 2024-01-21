@@ -4,7 +4,7 @@
 def spin_words(sentence):
     temp = sentence.split()
     output = []
-    for x in range(len(temp)):
+    for x in temp:
         if len(temp[x]) >= 5:
             output.append(temp[x][::-1])
         else:
