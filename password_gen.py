@@ -1,4 +1,4 @@
-#password gen by kenny zhang
+# password gen by kenny zhang
 
 import random, string, time
 
