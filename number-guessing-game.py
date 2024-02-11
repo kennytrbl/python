@@ -1,4 +1,7 @@
+# number guessing game by kenny zhang
+
 import random
+
 def main():
     guess = 0
     number = random.randint(1,100)
